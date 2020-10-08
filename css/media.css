@@ -1,0 +1,241 @@
+@media(max-width:1200px){
+   .container{
+       max-width: 960px;
+   }
+   .item__1{
+        max-width: 290px;
+        
+   }
+   .item__2 {
+        max-width: 290px;
+    }
+    .item__3 {
+        max-width: 290px;
+    }
+    .item__4 {
+        max-width: 290px;
+    }
+    .item__5 {
+        max-width: 290px;
+    }
+    .item__6 {
+        max-width: 290px;
+    }
+    .card{
+        width: 290px;
+    }
+    .card__rating{
+        margin-right: 8px;
+    }
+    .card__category {
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .card__price{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .card__title{
+        font-size: 18px;
+        line-height: 20px;
+    }
+    .footer__nav{
+        padding-right: 17%;
+    }
+    .social{
+        margin-right: 1%;
+    }
+}
+@media (max-width:930px){
+    .container{
+        max-width: 760px;
+    }
+    .promo{
+        background-position: bottom ;
+    }
+    .item__1{
+        max-width: 230px;
+   }
+   .item__2 {
+        max-width: 230px;
+    }
+    .item__3 {
+        max-width: 230px;
+    }
+    .item__4 {
+        max-width: 230px;
+    }
+    .item__5 {
+        max-width: 230px;
+    }
+    .item__6 {
+        max-width: 230px;
+    }
+    .card{
+        width: 230px;
+    }
+    .card__title{
+        font-size: 14px;
+        line-height: 16px;
+    }
+    .card_tag{
+        height: 23px;
+        font-size: 14px;
+    }
+    .card__category {
+        font-size: 12px;
+        line-height: 12px;
+        margin: 0;
+        margin-left: 5px;
+        width: 50px;
+    }
+    .card__price{
+        font-size: 12px;
+        line-height: 12px;
+        margin: 0;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .card__rating{
+        font-size: 13px;
+        margin: 0;
+    }
+    .footer__desc{
+        font-size: 16px;
+    }
+    .footer__nav{
+        padding-right: 10%;
+    }
+    .social{
+        vertical-align: middle;
+    }
+}
+@media(max-width:760px){
+    .container{
+        max-width: 570px;
+    }
+    .main__title{
+        font-size: 24px;
+        line-height: 28px;
+    }
+    .desc{
+        font-size: 19px;
+        line-height: 22px;
+        margin-right: 120px;
+    }
+    .promo{
+        background-position: -400px -50px ;
+    }
+    .in{
+        height: 35px;
+        width: 80px;
+        font-size: 13px;
+    }
+    .container__btn{
+        height: 35px;
+        width: 90px;
+        font-size: 13px;
+    }
+    .search__input{
+        font-size: 14px;
+    }
+    .search__dish{
+        width: 250px;
+        font-size: 13px;
+    }
+    .card__info{
+        font-size: 16px;
+        margin-right: 60px;
+        display: flex;
+        justify-content: left;
+        flex-direction: column;
+    }
+    .card__price{
+        font-size: 13px;
+    }
+    .card__category{
+        display: flex;
+        width: 100px;
+    }
+}
+@media(max-width:574px){
+    .container{
+        max-width: 420px;
+    }
+    .search__input{
+        width: 180px;
+        font-size: 12px;
+        height: 30px;
+    }
+    .main__logo{
+        margin-right: 20px;
+    }
+    .in{
+        font-size: 10px;
+        width: 65px;
+        height: 30px;
+        margin-left: 10px;
+    }
+    .container__btn{
+        font-size: 10px;
+        height: 30px;
+        width: 78px;
+    }
+    .promo__txt{
+        padding-top: 5%;
+        padding-left: 4%;
+    }
+    .promo{
+        background-position: -540px -60px;
+    }
+    .desc{
+        font-size: 16px;
+        line-height: 17px;
+        padding-top: 4%;
+    }
+    .rest__title{
+        font-size: 22px;
+    }
+    .search__dish{
+        height: 27px;
+        font-size: 10px;
+        width: 200px;
+    }
+    .item__2{
+        margin-top: 4%;
+        margin-bottom: 4%;
+        margin-left: 45%;
+    }
+    .item__4{
+        margin-top: 4%;
+        margin-bottom: 4%;
+        margin-left: 45%;
+    }
+    .item__6{
+        margin-top: 4%;
+        margin-bottom: 4%;
+        margin-left: 45%;
+    }
+    .footer{
+        width: 490px;
+        margin-right: 100px;
+    }
+    .footer__nav{
+        padding-right: 0%;
+    }
+    .footer__desc{
+        font-size: 11px;
+        padding-left: 9px;
+    }
+    .footer__user{
+        height: 20px;
+    }
+    .footer__logo{
+        width: 70px;
+    }
+    .social{
+        padding-left: 5px;
+        margin-right:0 ;
+        display: flex;
+    }
+}
