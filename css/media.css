@@ -3,23 +3,23 @@
        max-width: 960px;
    }
    .item__1{
-        max-width: 290px;
+        width: 290px;
         
    }
    .item__2 {
-        max-width: 290px;
+        width: 290px;
     }
     .item__3 {
-        max-width: 290px;
+        width: 290px;
     }
     .item__4 {
-        max-width: 290px;
+        width: 290px;
     }
     .item__5 {
-        max-width: 290px;
+        width: 290px;
     }
     .item__6 {
-        max-width: 290px;
+        width: 290px;
     }
     .card{
         width: 290px;
@@ -54,22 +54,22 @@
         background-position: bottom ;
     }
     .item__1{
-        max-width: 230px;
+        width: 230px;
    }
    .item__2 {
-        max-width: 230px;
+        width: 230px;
     }
     .item__3 {
-        max-width: 230px;
+        width: 230px;
     }
     .item__4 {
-        max-width: 230px;
+        width: 230px;
     }
     .item__5 {
-        max-width: 230px;
+        width: 230px;
     }
     .item__6 {
-        max-width: 230px;
+        width: 230px;
     }
     .card{
         width: 230px;
@@ -150,12 +150,52 @@
         justify-content: left;
         flex-direction: column;
     }
+    .item__1{
+        margin-top: 4%;
+    }
+    .item__2{
+        margin-top: 4%;
+    }
+    .item__4{
+        margin-top: 4%;
+    }
+    .item__3{
+        margin-top: 4%;
+    }
+    .item__5{
+        margin-top: 4%;
+    }
+    .item__6{
+        margin-top: 4%;
+    }
     .card__price{
         font-size: 13px;
     }
     .card__category{
         display: flex;
         width: 100px;
+    }
+    .footer{
+        width: 540px;
+        margin-right: 100px;
+    }
+    .footer__nav{
+        padding-right: 0%;
+    }
+    .footer__desc{
+        font-size: 11px;
+        padding-left: 9px;
+    }
+    .footer__user{
+        height: 20px;
+    }
+    .footer__logo{
+        width: 70px;
+    }
+    .social{
+        padding-left: 5px;
+        margin-right:0 ;
+        display: flex;
     }
 }
 @media(max-width:574px){
@@ -167,8 +207,17 @@
         font-size: 12px;
         height: 30px;
     }
+    .card{
+        width: 300px;
+    }
+    .card__title{
+        font-size: 18px;
+    }
     .main__logo{
         margin-right: 20px;
+    }
+    .card__info{
+        margin-right: 140px;
     }
     .in{
         font-size: 10px;
@@ -201,20 +250,32 @@
         font-size: 10px;
         width: 200px;
     }
+    .item__1{
+        width: 300px;
+    }
+    .item__3{
+        width: 300px;
+    }
+    .item__5{
+        width: 300px;
+    }
     .item__2{
+        width: 300px;
         margin-top: 4%;
         margin-bottom: 4%;
-        margin-left: 45%;
+        margin-left: 34%;
     }
     .item__4{
+        width: 300px;
         margin-top: 4%;
         margin-bottom: 4%;
-        margin-left: 45%;
+        margin-left: 34%;
     }
     .item__6{
+        width: 300px;
         margin-top: 4%;
         margin-bottom: 4%;
-        margin-left: 45%;
+        margin-left: 34%;
     }
     .footer{
         width: 490px;
