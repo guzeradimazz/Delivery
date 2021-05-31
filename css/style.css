@@ -196,6 +196,28 @@ body {
 .card__rating{
     margin-right: 26px;
 }
+.card__ingridients{
+    color: #8C8C8C;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 17px;
+}
+.card_btn_price{
+    display: flex;
+}
+.price{
+    margin-left: 50px;
+}
+.card__title-reg{
+    
+    font-family: fantasy;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 32px;
+}
 .card__price{ 
     margin-right: 10px;
     font-family: fantasy;
